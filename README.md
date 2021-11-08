@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+git anolisos 可以出售
+
+联系邮箱 myzhs@hotmail.com
+
 <!--
 **culinux/culinux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
